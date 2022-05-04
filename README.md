@@ -1,7 +1,7 @@
 ## RUN QILISH
-npm install 
-npm run watch
-xampp start qilish
+npm install. 
+npm run watch.
+xampp start qilish.
 
 
 
